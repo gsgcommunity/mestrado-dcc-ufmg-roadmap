@@ -2,35 +2,56 @@
 
 ## Milestones gerais
 
-| Milestone | Data |
-| - | - |
-| Pré-projeto | Abril/21 |
-| Currículo | Abril/21 |
-| Documentação para inscrição | ? |
+| Milestone                   | Data     |
+| --------------------------- | -------- |
+| Pré-projeto                 | Abril/21 |
+| Currículo                   | Abril/21 |
+| Documentação para inscrição | ?        |
 
-## Milestones relacionadas ao Pré-projeto
+## Pré-Projeto
 
-| Milestone | Data |
-| - | - |
-| Definição de orientador | ? |
-| Definição de linha de pesquisa | ? |
-| Definição de tema | ? |
-| Seleção de matérias do mestrado | ? |
-| Estudo do tema | ? |
-| Escrita de relatório | ? |
-
-## Milestones relacionadas ao Currículo
+### Milestones
 
 | Milestone | Data |
-| - | - |
-| Preparação do currículo | ? |
-| Certificação em língua estrangeira | ? |
+| --------- | ---- |
+| ?         | ?    |
 
-## Milestones relacionadas à Documentação para inscrição no mestrado
+### Checklist
+
+- [ ] Definição de orientador
+- [ ] Definição de linha de pesquisa
+- [ ] Definição de tema
+- [ ] Seleção de matérias do mestrado
+- [ ] Estudo do tema
+- [ ] Escrita de relatório
+
+## Currículo
+
+### Checklist
+
+- [ ] Adicionar experiência acadêmica
+- [ ] Adicionar participação em IC e estágio
+- [ ] Adicionar participação em eventos
+- [ ] Adicionar certificação em cursos
+- [ ] Tirar certificação em língua estrangeira
+
+### Milestones
 
 | Milestone | Data |
-| - | - |
-| ? | ? |
+| --------- | ---- |
+| ?         | ?    |
+
+## Documentação para inscrição no mestrado
+
+### Checklist
+
+- [ ] Retirar histórico curricular
+
+### Milestones
+
+| Milestone | Data |
+| --------- | ---- |
+| ?         | ?    |
 
 ## Dicas
 
