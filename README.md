@@ -11,11 +11,7 @@
 
 
 
-## Pré-Projeto
-
-- Primeira etpa, eliminatória e classificatória  
-- NPP (Nota de Pré-Projeto de Pesquisa) de 0(zero) a 100 (cem) pontos  
-- Mínimo: 60pt  
+## ETAPA 1: Pré-Projeto
 
 ### Milestones
 
@@ -28,13 +24,30 @@
 - [ ] Definição de orientador
 - [ ] Definição de linha de pesquisa
 - [ ] Definição de tema
+- [ ] Contextualização do tema
+- [ ] Relevância técnico-científica
 - [ ] Pergunta de pesquisa e objetivos
-- [ ] Estudo do tema: revisão bibliográfica
-- [ ] Seleção de matérias do mestrado
-- [ ] Cronograma
+- [ ] Estudo do tema: revisão bibliográfica/referencial teórico
+- [ ] Metodologia
+- [ ] Cronograma: Seleção de matérias do mestrado
+- [ ] Cronograma: Organização do tempo
 - [ ] Escrita de relatório
 
-## Currículo
+### Notas
+- Primeira etapa, eliminatória e classificatória  
+- NPP (Nota de Pré-Projeto de Pesquisa) de 0(zero) a 100 (cem) pontos  
+- Mínimo: 60pt
+- Formato: PDF, 5 páginas, fonte 12, espaço simples
+
+
+## ETAPA 2: Currículo (peso 3)
+
+### Checklist
+
+- [ ] Preenchimento do currículo no formato estabelecido no edital
+
+
+## ETAPA 2: Formação Acadêmica (peso 1)
 
 ### Checklist
 
@@ -50,19 +63,9 @@
 | --------- | ---- |
 | ?         | ?    |
 
+
+
 ## Documentação para inscrição no mestrado
-
-### Checklist
-
-- [ ] Retirar histórico curricular
-
-### Milestones
-
-| Milestone | Data |
-| --------- | ---- |
-| ?         | ?    |
-
-## Documentos inscrição
 
 ### Checklist (documentos digitalizados)
 - [ ] Preenchimento do formulário eletrônico
@@ -76,6 +79,12 @@
 - [ ] formulário de autodeclaração étnico-racial (candidatos autodeclarados negros)
 
 obs: os demais documentos listados no edital estão dentro das categorias de pontuação
+
+### Milestones
+
+| Milestone | Data |
+| --------- | ---- |
+| ?         | ?    |
 
 
 ## Dicas
