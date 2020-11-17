@@ -45,17 +45,15 @@
 ### Checklist
 
 - [ ] Preenchimento do currículo no formato estabelecido no edital
-
+- [ ] Adicionar documentos de participação em IC e estágio
 
 ## ETAPA 2: Formação Acadêmica (peso 1)
 
 ### Checklist
 
-- [ ] Adicionar documentos de experiência acadêmica: histórico escolar
-- [ ] Adicionar documentos de participação em IC e estágio
-- [ ] Adicionar documentos de participação em cursos de curta duração (+30h)
-- [ ] Adicionar documentos de certificação em TI/computação
+
 - [ ] Tirar certificação em língua estrangeira
+
 
 ### Milestones
 
@@ -65,18 +63,30 @@
 
 
 
-## Documentação para inscrição no mestrado
+## Documentação para inscrição no mestrado (documentos digitalizados)
 
-### Checklist (documentos digitalizados)
+### Documentos Pessoais 
 - [ ] Preenchimento do formulário eletrônico
 - [ ] Cédula de identidade
 - [ ] Certidão de nascimento oucasamento
 - [ ] Foto digital recente do rosto (max 300kb)
 - [ ] Documento obrigações militares
 - [ ] CPF
-- [ ] Diploma de graduação
 - [ ] Comprovante de endereço
 - [ ] formulário de autodeclaração étnico-racial (candidatos autodeclarados negros)
+
+### Documentos: currículum vitae
+- [ ] Certificação em língua estrangeira
+
+### Documentos: Nota de Formação Acadêmica
+- [ ] Diploma de graduação
+- [ ] Calcular média do histórico escolar da graduação 
+- [ ] Adicionar histórico escolar da graduação
+- [ ] Adicionar certificados de participação em cursos de curta duração (+30h)
+- [ ] Adicionar documentos de certificação em TI/computação
+- [ ] Adicionar certificado de pós strictu senso, se houver
+- [ ] Adicionar certificado de pós lato senso, se houver
+- [ ] Certificados de premiações
 
 obs: os demais documentos listados no edital estão dentro das categorias de pontuação
 
