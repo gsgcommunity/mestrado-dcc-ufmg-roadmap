@@ -21,18 +21,20 @@
 - [ ] Definição de orientador
 - [ ] Definição de linha de pesquisa
 - [ ] Definição de tema
+- [ ] Pergunta de pesquisa e objetivos
+- [ ] Estudo do tema: revisão bibliográfica
 - [ ] Seleção de matérias do mestrado
-- [ ] Estudo do tema
+- [ ] Cronograma
 - [ ] Escrita de relatório
 
 ## Currículo
 
 ### Checklist
 
-- [ ] Adicionar experiência acadêmica
-- [ ] Adicionar participação em IC e estágio
-- [ ] Adicionar participação em eventos
-- [ ] Adicionar certificação em cursos
+- [ ] Adicionar documentos de experiência acadêmica: histórico escolar
+- [ ] Adicionar documentos de participação em IC e estágio
+- [ ] Adicionar documentos de participação em cursos de curta duração (+30h)
+- [ ] Adicionar documentos de certificação em TI/computação
 - [ ] Tirar certificação em língua estrangeira
 
 ### Milestones
