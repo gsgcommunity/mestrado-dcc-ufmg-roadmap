@@ -60,7 +60,7 @@
 * ?
 
 ## Links úteis
-
+* [Edital 2020/02](http://ppgcc.dcc.ufmg.br/wp-content/uploads/2020/08/retificado_20200910-Edital-de-Selecao-PPGCC-Mestrado-2020_2-V1.pdf)
 * [Página Inicial Mestrado](http://ppgcc.dcc.ufmg.br/mestrado/)
 * [Linhas de Pesquisa](http://ppgcc.dcc.ufmg.br/linhas-de-pesquisa/)
 * [Grade curricular](ppgcc.dcc.ufmg.br/grade-curricular/)
