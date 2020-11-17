@@ -4,11 +4,18 @@
 
 | Milestone                   | Data     |
 | --------------------------- | -------- |
+| Inscrição                   | Abril/21 |
 | Pré-projeto                 | Abril/21 |
 | Currículo                   | Abril/21 |
 | Documentação para inscrição | ?        |
 
+
+
 ## Pré-Projeto
+
+- Primeira etpa, eliminatória e classificatória  
+- NPP (Nota de Pré-Projeto de Pesquisa) de 0(zero) a 100 (cem) pontos  
+- Mínimo: 60pt  
 
 ### Milestones
 
@@ -54,6 +61,22 @@
 | Milestone | Data |
 | --------- | ---- |
 | ?         | ?    |
+
+## Documentos inscrição
+
+### Checklist (documentos digitalizados)
+- [ ] Preenchimento do formulário eletrônico
+- [ ] Cédula de identidade
+- [ ] Certidão de nascimento oucasamento
+- [ ] Foto digital recente do rosto (max 300kb)
+- [ ] Documento obrigações militares
+- [ ] CPF
+- [ ] Diploma de graduação
+- [ ] Comprovante de endereço
+- [ ] formulário de autodeclaração étnico-racial (candidatos autodeclarados negros)
+
+obs: os demais documentos listados no edital estão dentro das categorias de pontuação
+
 
 ## Dicas
 
