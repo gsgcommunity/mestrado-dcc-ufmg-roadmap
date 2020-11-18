@@ -109,3 +109,4 @@ obs: os demais documentos listados no edital estão dentro das categorias de pon
 * [Disciplinas](http://ppgcc.dcc.ufmg.br/disciplinas/)
 * [Professores](http://ppgcc.dcc.ufmg.br/docentes/)
 * [Exame de proeficiência da Pós-Graduação CENEX](https://cenex.letras.ufmg.br/exames-de-proficiencia/pos-graduacao)
+* [Disciplina Isolada](https://www2.ufmg.br/drca/drca/Home/Pos-Graduacao/Disciplina-Isolada/Disciplina-Isolada-2020-21)
